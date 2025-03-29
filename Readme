@@ -1,0 +1,63 @@
+# Link 
+https://job-board-lac-two.vercel.app/
+# Job Board
+
+A modern job board application that connects job seekers with employers.
+
+## Overview
+
+This job board platform allows employers to post job listings and job seekers to browse and apply for positions. The application provides a clean, intuitive interface for managing the job search process.
+
+
+## Technology Stack
+
+- **Frontend:** React.js
+- **Backend:** Node.js with Express
+- **Styling:** CSS/SCSS with responsive design
+
+## Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/indusri516/Job-Board.git
+```
+
+2. Navigate to the project directory
+```bash
+cd Job-Board
+```
+
+3. Install dependencies
+```bash
+npm install
+```
+
+
+4. Start the development server
+```bash
+npm run dev
+```
+
+## Usage
+
+### For Job Seekers
+- Create an account or log in
+- Browse job listings
+- Filter jobs based on preferences
+- View job details
+- Apply for positions
+- Track application status
+
+### For Employers
+- Create an employer account
+- Post new job listings
+- Review applications
+- Manage job postings (edit, delete, mark as filled)
+- Contact applicants
+
+
+## Contact
+
+Indusri - indusri516@gmail.com
+
+Project Link: https://github.com/indusri516/Job-Board
